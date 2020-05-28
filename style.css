@@ -1,0 +1,51 @@
+body{
+    background-color: white;
+}
+
+#image{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;
+}
+
+#logintext{
+    color: #666370;
+    font-size: 35px;
+    font-family: 'Raleway', sans-serif;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+#text-boxes{
+    color: #666370;
+    font-size: 18px;
+    font-family: 'Raleway', sans-serif;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+#signup{
+    color: #666370;
+    font-size: 15px;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+
+}
+
+.button{
+    background-color: #B4A6AB;
+    border: none;
+    padding: 8px 20px;
+    font-size: 15px;
+    font-family: 'Raleway', sans-serif;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+}
